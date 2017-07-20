@@ -12,11 +12,11 @@ The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
 * Reflect on your work in a written report
 
-[original]: ./solidWhiteCurve.jpg "Solid White Curve"
+[original]: ./test_images/solidWhiteCurve.jpg "Solid White Curve"
 [grayscale]: ./debug_output/grayscale.jpg "Grayscale"
 [gaussian]: ./debug_output/blurred.jpg "Gaussian blur"
 [canny]: ./debug_output/canny.jpg "Canny Edge detection"
-[region]: ./debug_output/region.jpg "Region of interest"
+[region]: ./debug_output/masked.jpg "Region of interest"
 [hough]: ./debug_output/hough.jpg "Hough transform"
 [final]: ./test_images_output/solidWhiteCurve.jpg "Final"
 
