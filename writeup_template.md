@@ -81,7 +81,7 @@ Canny Edge detection:
 Region of interest:
 ![Region of interest][region]
 
-Hough transform:
+Hough transform and lane extrapolation:
 ![Hough Transform][hough]
 
 Final image:
